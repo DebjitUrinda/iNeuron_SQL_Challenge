@@ -1,1 +1,0 @@
-# iNeuron_SQL_Challenge
